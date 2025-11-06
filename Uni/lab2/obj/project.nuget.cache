@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0srhjIrRBso=",
+  "success": true,
+  "projectFilePath": "/Users/danilaavdienko/Desktop/oop/OOP-Itmo25/Uni/lab2/lab2.csproj",
+  "expectedPackageFiles": [
+    "/Users/danilaavdienko/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/danilaavdienko/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/danilaavdienko/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.20/microsoft.netcore.app.host.osx-arm64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
