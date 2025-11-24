@@ -1,0 +1,15 @@
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/bin/Debug/net9.0/OOP_LAB0
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/bin/Debug/net9.0/OOP_LAB0.deps.json
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/bin/Debug/net9.0/OOP_LAB0.runtimeconfig.json
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/bin/Debug/net9.0/OOP_LAB0.dll
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/bin/Debug/net9.0/OOP_LAB0.pdb
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/OOP_LAB0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/OOP_LAB0.AssemblyInfoInputs.cache
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/OOP_LAB0.AssemblyInfo.cs
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/OOP_LAB0.csproj.CoreCompileInputs.cache
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/OOP_LAB0.sourcelink.json
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/OOP_LAB0.dll
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/refint/OOP_LAB0.dll
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/OOP_LAB0.pdb
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/OOP_LAB0.genruntimeconfig.cache
+/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB0/OOP_LAB0/obj/Debug/net9.0/ref/OOP_LAB0.dll
