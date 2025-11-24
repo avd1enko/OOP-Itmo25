@@ -1,0 +1,18 @@
+# IDE-шное
+.idea/
+.vs/
+*.sln.DotSettings.user
+
+# Сборка .NET
+bin/
+obj/
+
+# Пользовательские настройки
+*.user
+*.userprefs
+
+# macOS
+.DS_Store
+
+# Rider / временные
+*.iml
