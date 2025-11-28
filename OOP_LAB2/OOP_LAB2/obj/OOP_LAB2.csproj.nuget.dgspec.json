@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danilaavdienko/Desktop/riderC/OOP_LAB2/OOP_LAB2/OOP_LAB2.csproj": {}
+    "/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB2/OOP_LAB2/OOP_LAB2.csproj": {}
   },
   "projects": {
-    "/Users/danilaavdienko/Desktop/riderC/OOP_LAB2/OOP_LAB2/OOP_LAB2.csproj": {
+    "/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB2/OOP_LAB2/OOP_LAB2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danilaavdienko/Desktop/riderC/OOP_LAB2/OOP_LAB2/OOP_LAB2.csproj",
+        "projectUniqueName": "/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB2/OOP_LAB2/OOP_LAB2.csproj",
         "projectName": "OOP_LAB2",
-        "projectPath": "/Users/danilaavdienko/Desktop/riderC/OOP_LAB2/OOP_LAB2/OOP_LAB2.csproj",
+        "projectPath": "/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB2/OOP_LAB2/OOP_LAB2.csproj",
         "packagesPath": "/Users/danilaavdienko/.nuget/packages/",
-        "outputPath": "/Users/danilaavdienko/Desktop/riderC/OOP_LAB2/OOP_LAB2/obj/",
+        "outputPath": "/Users/danilaavdienko/Desktop/riderC/OOP-Itmo25/OOP_LAB2/OOP_LAB2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danilaavdienko/.nuget/NuGet/NuGet.Config"

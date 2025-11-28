@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_LAB2", "OOP_LAB2\OOP_LAB2.csproj", "{340FCD73-9C9C-41B2-AEC4-C663116D9FA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_LAB2.Tests", "OOP_LAB2.Tests\OOP_LAB2.Tests.csproj", "{DD758C87-1FEC-49B8-A30A-74202E2B38D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{340FCD73-9C9C-41B2-AEC4-C663116D9FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{340FCD73-9C9C-41B2-AEC4-C663116D9FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{340FCD73-9C9C-41B2-AEC4-C663116D9FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD758C87-1FEC-49B8-A30A-74202E2B38D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD758C87-1FEC-49B8-A30A-74202E2B38D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD758C87-1FEC-49B8-A30A-74202E2B38D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD758C87-1FEC-49B8-A30A-74202E2B38D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
