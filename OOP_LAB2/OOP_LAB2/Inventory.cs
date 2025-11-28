@@ -1,6 +1,5 @@
 namespace OOP_LAB2;
 using OOP_LAB2.Entities;
-using System.Collections.Generic;
 
 public class Inventory
 {
