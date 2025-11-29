@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_LAB3", "OOP_LAB3\OOP_LAB3.csproj", "{C1E6A373-248E-4D01-9EDC-83416F672650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_LAB3.Tests", "OOP_LAB3.Tests\OOP_LAB3.Tests.csproj", "{FEA4091B-46FD-4729-B755-D75CC8245400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E6A373-248E-4D01-9EDC-83416F672650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E6A373-248E-4D01-9EDC-83416F672650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E6A373-248E-4D01-9EDC-83416F672650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E6A373-248E-4D01-9EDC-83416F672650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA4091B-46FD-4729-B755-D75CC8245400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA4091B-46FD-4729-B755-D75CC8245400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA4091B-46FD-4729-B755-D75CC8245400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA4091B-46FD-4729-B755-D75CC8245400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
